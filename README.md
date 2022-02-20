@@ -88,10 +88,7 @@ _Below is an example of how you can instruct your audience on installing and set
   ```sh
   pip install -r requirements.txt
   ```
-3. Run notebook 
-   ```sh
-  jupyter notebook
-  ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
