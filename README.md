@@ -80,16 +80,14 @@ Install all the dependency in order to properly run the app.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/whoislimshady/mobilenet_v2_model_for_ocr
    ```
-3. Install Requirements
-   ```sh
+2. Install Requirements
   pip install -r requirements.txt
    ```
-4. Run notebook
+3
   jupyter notebook
    ```
 
