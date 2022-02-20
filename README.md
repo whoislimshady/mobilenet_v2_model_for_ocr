@@ -85,11 +85,13 @@ _Below is an example of how you can instruct your audience on installing and set
    git clone https://github.com/whoislimshady/mobilenet_v2_model_for_ocr
    ```
 2. Install Requirements
+  ```sh
   pip install -r requirements.txt
-   ```
-3
+  ```
+3. Run notebook 
+   ```sh
   jupyter notebook
-   ```
+  ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
